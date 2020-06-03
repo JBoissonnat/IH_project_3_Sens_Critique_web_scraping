@@ -36,5 +36,6 @@ Eventually the code return a cleaned dataframe with 22 columns of informations a
 
 ### Links
 
-Source page : [TO COMPLETE]
-Presentation : [TO COMPLETE]
+Source page : https://www.senscritique.com/search?categories[0][0]=Films
+
+Presentation : https://docs.google.com/presentation/d/1l8lPo4fnwpWrHODu7AtQ5Ll7oOY7anr0wbk8jU_hiGQ/edit?usp=sharing
