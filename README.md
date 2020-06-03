@@ -25,7 +25,14 @@ Functions for the code :
 - create_request(), which uses and url to get content from the pages
 - check_empty_list()
 - addition_lists()
-[TO COMPLETE]
+- get_links(), which ask the user the number of pages to scrap and scrap their url
+- get_main_info() and get_details_info(), which respectively gets the main and details informations for a movie page (the page is different between the 2 functions)
+- movie_dataframe(), which creates an empty dataframe for the movies
+- fill_movie_dataframe(), which loops over the list of movies pages links to scrap each and fill the dataframe using the get_main_info
+- convert_cc_interest(), convert_length(), convert_date() which respectively convert properly the informations about "coup de coeur" and interest, length and date of the movies
+- wrangle_df(), which uses the convert functions to clean and and handle properly the dataframe
+
+Eventually the code return a cleaned dataframe with 22 columns of informations about each movies scraped
 
 ### Links
 
