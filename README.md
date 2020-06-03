@@ -25,8 +25,9 @@ Functions for the code :
 - create_request(), which uses and url to get content from the pages
 - check_empty_list()
 - addition_lists()
+[TO COMPLETE]
 
 ### Links
 
-Source page : 
-Presentation : 
+Source page : [TO COMPLETE]
+Presentation : [TO COMPLETE]
